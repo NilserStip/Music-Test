@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Music Test</string>
+    <string name="list_songs">Listado de canciones</string>
+</resources>
