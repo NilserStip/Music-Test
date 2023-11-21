@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="names_songs">
+        <item>aguamarina</item>
+        <item>necesitounamor</item>
+        <item>mehacesfaltatu</item>
+        <item>yanoteamo</item>
+        <item>mashupperuano</item>
+        <item>estoyenamorado</item>
+        <item>babynickyjamfarrukoamenazzy</item>
+        <item>elmerengue</item>
+        <item>mixreggaetonantiguo</item>
+        <item>movimientonaranja</item>
+        <item>mipansususum</item>
+        <item>hakunamatata</item>
+        <item>recuerdame</item>
+        <item>yoquisierayaserelrey</item>
+        <item>pruebaerror</item>
+    </array>
+
+    <array name="titles_songs">
+        <item>Paloma Ajena - Agua Marina</item>
+        <item>Necesito Un Amor - Hermanos Yaipen</item>
+        <item>Me Haces Falta Tu - Corazón Serrano</item>
+        <item>Ya No Te Amo - Daniela Darcourt</item>
+        <item>Mashup Peruano - Milena Warthon</item>
+        <item>Estoy Enamorado - Wisin y Yandel</item>
+        <item>Baby - Nicky Jam x Farruko x Amenazzy</item>
+        <item>El Merengue - Marshmello x Manuel Turizo</item>
+        <item>Mix Reggaeton Antiguo - DJ</item>
+        <item>Movimiento Naranja - Yuawi - Movimiento Ciudadano</item>
+        <item>Mi Pan Su Su Sum - Ej MuSiC</item>
+        <item>Hakuna Matata - Disney</item>
+        <item>Recuérdame Coco - Disney</item>
+        <item>Yo Quisiera Ya Ser El Rey - Disney</item>
+        <item>No hay archivo - Prueba de Error</item>
+    </array>
+</resources>
