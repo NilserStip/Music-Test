@@ -17,7 +17,6 @@ import com.bumptech.glide.Glide
 import com.nilserllamo.musictest.R
 import com.nilserllamo.musictest.databinding.ActivityMainBinding
 import com.nilserllamo.musictest.presentation.model.Song
-import java.text.SimpleDateFormat
 import java.util.*
 import java.util.concurrent.TimeUnit
 import kotlin.collections.ArrayList
@@ -126,7 +125,7 @@ class MainActivity : AppCompatActivity(), SongAdapter.OnItemClickListener {
 
             if (oTime == 0) {
                 binding.seekBar.max = end.toInt()
-                oTime = 1;
+                oTime = 1
             }
 
             textviewTimeStart.text =
@@ -146,7 +145,7 @@ class MainActivity : AppCompatActivity(), SongAdapter.OnItemClickListener {
                     )
                 )
             seekBar.progress = start.toInt()
-            handle.postDelayed(updateSongTime, 100);
+            handle.postDelayed(updateSongTime, 100)
 
             constraintTop.visibility = if (value) View.VISIBLE else View.GONE
 
